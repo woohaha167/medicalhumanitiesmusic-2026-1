@@ -3,7 +3,7 @@ Title: Peter Grimes
 Year: 1945년
 Genre: Opera
 Disease: Psychosis
-ICD:
+ICD: F32.3/ F33.3
 ---
 
 # Peter Grimes
