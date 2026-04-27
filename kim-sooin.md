@@ -2,7 +2,7 @@
 Title: Black Swan
 Year: 2010
 Genre: Film
-Disease:Obsessive-Compulsive Disorder (OCD)
+Disease: Obsessive-Compulsive Disorder (OCD)
 ICD: 6B20
 ---
 
