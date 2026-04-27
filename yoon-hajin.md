@@ -3,7 +3,7 @@ Title: Rent
 Year: 1996
 Genre: Musical
 Disease: AIDS
-ICD: 8A45.0Y
+ICD: 1C62.3
 ---
 
 # Rent
