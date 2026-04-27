@@ -1,8 +1,8 @@
 ---
 Title: Le Scaphandre et le Papillon
-Year:
-Genre:
-Disease:
+Year: 2007
+Genre: Film
+Disease: Locked-in Syndrome
 ICD:
 ---
 
