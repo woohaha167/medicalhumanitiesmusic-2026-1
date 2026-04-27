@@ -2,8 +2,8 @@
 Title: Keys to the Heart
 Year: 2018
 Genre: Film
-Disease: Asperger disorder
-ICD: 
+Disease: Autism spectrum disorder
+ICD: 6A02
 ---
 
 # Keys to the Heart
