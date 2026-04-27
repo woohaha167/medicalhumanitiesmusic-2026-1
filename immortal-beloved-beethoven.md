@@ -1,5 +1,5 @@
 ---
-title: 불멸의 연인 - 베토벤의 생애와 음악적 집념
+title: Immortal Beloved - Beethoven's Life and Musical Resilience
 author: 나해리
 date: 2026-04-27
 categories: [Medical Humanities, Music]
@@ -18,3 +18,18 @@ tags: [Beethoven, Hearing Loss, Immortal Beloved, Ninth Symphony]
 
 ### 결론
 이 작품은 장애가 창조성을 억압하기보다 오히려 심화시킬 수 있음을 음악을 통해 설득력 있게 보여줍니다.
+
+---
+
+# English Analysis
+
+The work I chose is **Immortal Beloved**, a biographical film centered on the life of Ludwig van Beethoven and the mystery of his “Immortal Beloved.” 
+
+### Narrative and the Representation of Disability
+The film places Beethoven’s **progressive hearing loss** at the heart of its narrative, portraying the profound inner struggle and determination of a composer who continued to create music even as he lost his ability to hear. Major works featured include *Symphony No. 9*, particularly *Ode to Joy*, as well as the *Moonlight* and *Appassionata* sonatas, which collectively reflect both emotional turbulence and transcendence. 
+
+### Plot and Impressions
+The story follows Beethoven’s secretary as he attempts to uncover the identity of the “Immortal Beloved,” revisiting the composer’s relationships through a series of flashbacks. Most notably, the scene in which Beethoven, completely deaf, finishes conducting *Symphony No. 9* without hearing the audience’s applause powerfully illustrates how music paradoxically conveys silence and isolation. 
+
+### Conclusion
+Through this cinematic representation, the film suggests that disability does not diminish artistic creativity but can instead deepen and intensify it, proving music to be a medium for overcoming human suffering.
