@@ -1,15 +1,15 @@
 ---
 Title: lucia di lammermoor
-year: 
-Genre: 오페라
-Disease: 
+year: 1835
+Genre: opera
+Disease: mental illness
 ICD: 
 ---
 
 # lucia di lammermoor
 
-In *Lucia di Lammermoor*, Donizetti depicts Lucia’s mental breakdown with remarkable musical precision. In the Mad Scene of Act III, “Il dolce suono,” the extreme high-register coloratura, unstable rhythms, and the ethereal timbre of the glass harmonica combine to express a state in which reality and hallucination become indistinguishable, audibly rendering Lucia’s psychological disintegration and loss of control. These musical devices go beyond mere emotional expression, serving to dramatically convey the tragedy of mental illness and the process of collapse within the human psyche.
+Lucia di Lammermoor is a three-act opera composed by Italian composer Gaetano Donizetti (1797–1848), premiered at the Teatro San Carlo in Naples in 1835. Based on Walter Scott’s novel The Bride of Lammermoor (1819), the opera tells the story of Lucia, who falls in love with a man considered an enemy of her family, is forced into an arranged marriage by her brother, murders her bridegroom on their wedding night, and ultimately dies in a state of mental derangement after appearing before the wedding guests in a blood-stained dress. Donizetti depicts Lucia’s psychological breakdown with remarkable musical precision, particularly in the Mad Scene of Act III, “Il dolce suono,” where extreme high-register coloratura, unstable rhythms, and the ethereal timbre of the glass harmonica combine to express a state in which reality and hallucination become indistinguishable.
 
 # 람메르무어의 루치아
 
-람메르무어의 루치아에서 도니체티는 루치아의 정신 붕괴를 음악적으로 섬세하게 묘사한다. 특히 3막의 광기의 아리아 “Il dolce suono”에서는 극도로 높은 음역의 콜로라투라와 불안정한 리듬, 그리고 글라스 하모니카의 몽환적인 음색을 통해 현실과 환상이 뒤섞인 상태를 표현하며, 이는 루치아의 심리적 혼란과 통제 불능 상태를 청각적으로 드러낸다. 이러한 음악적 장치들은 단순한 감정 표현을 넘어 정신질환의 비극성과 인간 내면의 붕괴 과정을 극적으로 전달하는 역할을 한다.
+람메르무어의 루치아는 이탈리아 작곡가 가에타노 도니체티(1797–1848)가 작곡한 3막의 오페라로, 1835년 나폴리 산 카를로 극장에서 초연되었다. 월터 스콧의 소설 The Bride of Lammermoor(1819)를 원작으로 하며, 가문의 원수와 사랑에 빠진 루치아가 오빠의 강요로 강제 결혼을 하게 되고, 결혼 첫날 밤 신랑을 살해한 뒤 피 묻은 드레스 차림으로 하객들 앞에 나타나 정신착란 상태에서 노래하다 숨지는 이야기를 담는다. 도니체티는 루치아의 정신 붕괴를 음악적으로 섬세하게 묘사하며, 특히 3막의 광기의 아리아 “Il dolce suono”에서는 극도로 높은 음역의 콜로라투라와 불안정한 리듬, 그리고 글라스 하모니카의 몽환적인 음색을 통해 현실과 환상이 뒤섞인 상태를 표현한다.
