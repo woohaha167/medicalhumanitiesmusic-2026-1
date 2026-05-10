@@ -3,12 +3,12 @@ Title: lucia di lammermoor
 year: 1835
 Genre: opera
 Disease: mental illness
-ICD: 
+ICD: F23
 ---
 
 # lucia di lammermoor
 
-Lucia di Lammermoor is a three-act opera composed by Italian composer Gaetano Donizetti (1797–1848), premiered at the Teatro San Carlo in Naples in 1835. Based on Walter Scott’s novel The Bride of Lammermoor (1819), the opera tells the story of Lucia, who falls in love with a man considered an enemy of her family, is forced into an arranged marriage by her brother, murders her bridegroom on their wedding night, and ultimately dies in a state of mental derangement after appearing before the wedding guests in a blood-stained dress. Donizetti depicts Lucia’s psychological breakdown with remarkable musical precision, particularly in the Mad Scene of Act III, “Il dolce suono,” where extreme high-register coloratura, unstable rhythms, and the ethereal timbre of the glass harmonica combine to express a state in which reality and hallucination become indistinguishable.
+*Lucia di Lammermoor* is a three-act opera composed by Italian composer Gaetano Donizetti (1797–1848), premiered at the Teatro San Carlo in Naples in 1835. Based on Walter Scott’s novel The Bride of Lammermoor (1819), the opera tells the story of Lucia, who falls in love with a man considered an enemy of her family, is forced into an arranged marriage by her brother, murders her bridegroom on their wedding night, and ultimately dies in a state of mental derangement after appearing before the wedding guests in a blood-stained dress. Donizetti depicts Lucia’s psychological breakdown with remarkable musical precision, particularly in the Mad Scene of Act III, “Il dolce suono,” where extreme high-register coloratura, unstable rhythms, and the ethereal timbre of the glass harmonica combine to express a state in which reality and hallucination become indistinguishable.
 
 # 람메르무어의 루치아
 
