@@ -23,8 +23,8 @@ In *Inside Llewyn Davis* (2013), folk music does not simply describe depression,
 - 영화는 그의 음악과 분위기에서 영감 받음  
 
 ## 주요 음악
-- Hang Me, Oh Hang Me  
-- Fare Thee Well (Dink's Song)  
+- [Hang Me, Oh Hang Me](https://youtu.be/ZTzH4he7hP8?si=_hDhtNt2tKucT7p5) 
+- [Fare Thee Well](https://youtu.be/ajZC1RZSR44?si=T5gAp4GLDah5Fd_e)
 
 ## 기타 수록곡
 - The Death of Queen Jane  
